@@ -1,0 +1,11 @@
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csprojAssemblyReference.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.GenerateResource.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Hasil.resources
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
